@@ -6,7 +6,7 @@
 }
 
 .container1 {
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     background-color: red;
     position: relative;  
@@ -49,14 +49,14 @@ h2 {
 }
 
 .container2 {
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     background-color: green;
     position: relative;
 }
 
 .container3 {
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     background-color: yellow;
     position: relative;
