@@ -5,10 +5,9 @@
     font-family: 'Rubik Mono One', sans-serif;
 }
 
-.container1 {
+.container {
     width: 100vw;
     height: 100vh;
-    background-color: red;
     position: relative;  
 }
 
@@ -48,18 +47,16 @@ h2 {
     text-align: center;
 }
 
-.container2 {
-    width: 100vw;
-    height: 100vh;
-    background-color: green;
-    position: relative;
+#rosso {
+    background-color: red;
 }
 
-.container3 {
-    width: 100vw;
-    height: 100vh;
+#verde {
+    background-color: green;
+}
+
+#giallo {
     background-color: yellow;
-    position: relative;
 }
 
 .scritta-verde {
